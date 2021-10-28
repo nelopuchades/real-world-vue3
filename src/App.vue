@@ -1,8 +1,9 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
+    <router-link to="/">Events</router-link> |
     <router-link to="/about">About</router-link>
   </div>
+  <!-- router-view works as a placeholder that is replaced by route's component -->
   <router-view />
 </template>
 
