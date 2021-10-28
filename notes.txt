@@ -1,0 +1,13 @@
+- Client Side Routing (CSR)
+
+> Renders differences without reloading the page
+> Modern app (Single Page Application - SPA) -> We are really just looking at one page, index.html. When we interact, we just adjust which view are we seeing of that app
+
+- Server Side Routing (SSR)
+
+> Browser refreshes on every page load
+> Traditional app -> Fetching content from different urls
+    - example-url.com/
+    - example-url.com/dashboard
+    - example-url.com/profile
+    - example-url.com/analytics
