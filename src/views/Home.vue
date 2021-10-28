@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <EventCard />
+    <event-card />
   </div>
 </template>
 
